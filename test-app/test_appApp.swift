@@ -12,6 +12,8 @@ struct test_appApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView() // This is the content view. Can you see this change?
+            
+            // Oh look another change.
         }
     }
 }
